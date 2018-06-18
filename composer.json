@@ -1,5 +1,5 @@
 {
-    "name": "gtk/laravel-scout-elasticsearch",
+    "name": "thucnc/laravel-scout-elasticsearch",
     "description": "Elasticsearch driver for Laravel Scout",
     "keywords": ["laravel", "scout", "elasticsearch"],
     "license": "MIT",
